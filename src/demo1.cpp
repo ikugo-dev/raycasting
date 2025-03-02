@@ -1,5 +1,6 @@
+// REALLY OLD CODE!!!! DO NOT JUDGE
 #include "raylib.h"
-#include <cmath>
+#include <math.h>
 
 #define NUMBER_OF_RAY 2
 #define NUMBER_OF_SEG 6
